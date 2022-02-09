@@ -14,10 +14,25 @@ a {
     text-decoration: underline;
     display: inline-block;
     padding: 2rem;   
+    text-size: 1rem;
 }
-
-
 
 h1 {
     font-size: 3.125rem;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 2.625rem;
+    padding: 2rem;
+}
+
+p {
+    font-size: 1.3125rem;
+    color: gray;
+    padding: 1rem;
+}
+
+footer {
+    text-align: right;
 }
