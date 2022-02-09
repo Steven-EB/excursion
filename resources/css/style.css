@@ -5,7 +5,19 @@ html {
     font-size: 16px;
 }
 
-h1 {
+.centered {
     text-align: center;
+}
+
+a {
+    color: aquamarine;
+    text-decoration: underline;
+    display: inline-block;
+    padding: 2rem;   
+}
+
+
+
+h1 {
     font-size: 3.125rem;
 }
